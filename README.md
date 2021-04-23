@@ -21,3 +21,8 @@ Check out [issue 1](https://github.com/Cigar2/Cigar2/issues/1)
 
 ## Original Client Imsolo.pro
 Check out (https://imsolo.pro)
+
+## Install NPM modules 
+ - Click on the file InstallNPM.bat
+ - Then run the file "webserver.js" with cmd or shell.
+ - Ready to play! 
