@@ -25,4 +25,5 @@ Check out (https://imsolo.pro)
 ## Install NPM modules 
  - Click on the file InstallNPM.bat
  - Then run the file "StartServer.bat" with the comand "node webserver.js" cmd or shell.
- - Ready to play!
+ - Now type in the browser this (http://localhost:3000)
+ - Ready to Play!
