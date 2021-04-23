@@ -18,3 +18,6 @@ Upload your **PNG** files to the skins folder and run the updateSkinList file in
 
 ### Todos
 Check out [issue 1](https://github.com/Cigar2/Cigar2/issues/1)
+
+## Original Client Imsolo.pro
+Check out (https://imsolo.pro)
