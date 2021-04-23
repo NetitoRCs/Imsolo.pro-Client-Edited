@@ -24,5 +24,5 @@ Check out (https://imsolo.pro)
 
 ## Install NPM modules 
  - Click on the file InstallNPM.bat
- - Then run the file "webserver.js" with cmd or shell.
+ - Then run the file "webserver.js" with the comand "node webserver.js" cmd or shell.
  - Ready to play! 
